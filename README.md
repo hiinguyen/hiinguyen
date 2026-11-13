@@ -19,7 +19,7 @@
 - 🔧 I build **AI agents and automation** systems — multi-agent orchestration, LangGraph agent, voice assistants
 - 🤖 Big Iron Man fan — I literally built myself a **F.R.I.D.A.Y.** voice HUD (see pinned repos below 👇)
 - 🧪 I like making weird, fun, slightly unhinged side projects just to see if they work
-- 🧠 Currently exploring: agent orchestration, retrieval-augmented generation, and local-first tooling
+- 🧠 Currently  exploring: agent orchestration, retrieval-augmented generation, and local-first tooling
 
 ---
 
