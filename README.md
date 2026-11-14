@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <em>Builder of AI agents, automations, and the occasional weird-but-fun side project.</em>
+  <em>Builder of AI agents,  automations, and the occasional weird-but-fun side project.</em>
 
 </p>
 
